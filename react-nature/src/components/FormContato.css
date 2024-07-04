@@ -1,0 +1,11 @@
+.nosso-contato{
+    display: flex;
+    flex-direction: row;
+}
+
+.local {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    
+}
